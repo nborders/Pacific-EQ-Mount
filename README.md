@@ -1,6 +1,6 @@
 # Pacific EQ Mount
 
-Welcome to the Pacific EQ Mount project repository! This project aims to provide an open-source design for a German Equatorial Mount (GEM) for astronomy enthusiasts. The Pacific EQ Mount offers an affordable and accessible option for astrophotography and observation, allowing you to capture stunning images of the night sky.
+Welcome to the Pacific EQ Mount project repository! This project is inspired by the AlkaidMount project (https://github.com/alanzjl/AlkaidMount) and a video by [XYZ](https://youtu.be/k2GoMa2DpH8), which served as a foundation for the development of the Pacific EQ Mount. The Pacific EQ Mount aims to provide an open-source design for a German Equatorial Mount (GEM) for astronomy enthusiasts. The mount offers an affordable and accessible option for astrophotography and observation, allowing you to capture stunning images of the night sky.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -40,8 +40,4 @@ Contributions to the Pacific EQ Mount project are welcome! If you have ideas, bu
 The Pacific EQ Mount project is licensed under the [MIT License](./LICENSE). You are free to use, modify, and distribute the project's files and documentation in accordance with the terms of the license.
 
 ## Acknowledgments
-We would like to thank all contributors and community members who have supported and contributed to this project.
-
-## Contact
-For any questions or inquiries related to the Pacific EQ Mount, please reach out to the project maintainers at [email@example.com].
-
+This project is inspired by the AlkaidMount project (https://github.com/alanzjl/AlkaidMount
